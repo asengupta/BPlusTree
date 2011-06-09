@@ -1,0 +1,9 @@
+f:\RandomProgram\Tests\obj\Debug\ResolveAssemblyReference.cache
+f:\RandomProgram\Tests\bin\Debug\Tests.dll
+f:\RandomProgram\Tests\bin\Debug\Tests.pdb
+f:\RandomProgram\Tests\bin\Debug\nunit.framework.dll
+f:\RandomProgram\Tests\bin\Debug\RandomProgram.dll
+f:\RandomProgram\Tests\bin\Debug\RandomProgram.pdb
+f:\RandomProgram\Tests\bin\Debug\nunit.framework.xml
+f:\RandomProgram\Tests\obj\Debug\Tests.dll
+f:\RandomProgram\Tests\obj\Debug\Tests.pdb

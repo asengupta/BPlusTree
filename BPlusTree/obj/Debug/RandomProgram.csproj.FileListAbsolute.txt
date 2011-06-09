@@ -1,0 +1,7 @@
+f:\RandomProgram\RandomProgram\bin\Debug\RandomProgram.dll
+f:\RandomProgram\RandomProgram\bin\Debug\RandomProgram.pdb
+f:\RandomProgram\RandomProgram\bin\Debug\nunit.framework.dll
+f:\RandomProgram\RandomProgram\bin\Debug\nunit.framework.xml
+f:\RandomProgram\RandomProgram\obj\Debug\ResolveAssemblyReference.cache
+f:\RandomProgram\RandomProgram\obj\Debug\RandomProgram.dll
+f:\RandomProgram\RandomProgram\obj\Debug\RandomProgram.pdb
